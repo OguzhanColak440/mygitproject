@@ -17,6 +17,9 @@ public class MyGitClass {
 		
 		System.out.println("takim arkadasimin codu hi");
 		
+		System.out.println("takim arkadasimin codu america");
+		
+		
 		
 	
 
