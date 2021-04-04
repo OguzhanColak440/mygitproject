@@ -9,6 +9,8 @@ public class MyGitClass {
 		System.out.println("My third commit");
 		System.out.println("Yasin beyin codu");
 		System.out.println("takim arkadasimin codu");
+		System.out.println("takim arkadasimin codu merhaba");
+		
 	
 
 		
