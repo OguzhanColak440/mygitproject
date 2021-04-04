@@ -16,7 +16,7 @@ public class MyGitClass {
 		System.out.println("takim arkadasimin codu merhaba");
 		
 		System.out.println("takim arkadasimin codu hi");
-		
+		System.out.println("19.nci satr bilgisayarım diğerinde 20");
 		
 	
 
