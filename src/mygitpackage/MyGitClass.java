@@ -14,6 +14,10 @@ public class MyGitClass {
 
 
 		System.out.println("takim arkadasimin codu merhaba");
+		
+		System.out.println("takim arkadasimin codu hi");
+		
+		
 	
 
 	
