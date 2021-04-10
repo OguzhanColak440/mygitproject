@@ -22,6 +22,8 @@ public class MyGitClass {
 		
 		System.out.println("takim arkadasimin codu america");
 		
+		System.out.println("AHMET BRANCHINDE YAZDIGIM KODLAR");
+		
 		
 
 		
